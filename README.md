@@ -16,5 +16,4 @@ https://k50.ru/servisy/k50-bi/
 Поддерживаемые форматы дат: yyyy-mm-dd, today, yesterday
 Например: 2019-07-31
 
-Поддержка:
-Павел Мрыкин (mrykin@k50.ru)
+Поддержка - support@k50.ru
